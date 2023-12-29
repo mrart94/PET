@@ -10,3 +10,4 @@ def get_file_from_yadisk():
     # y.upload("Текстовый документ.txt","/Текстовый документ.txt")
     # Загрузка с диска
     y.download("/Бюджет.xlsx", "Бюджет.xlsx")
+    #
